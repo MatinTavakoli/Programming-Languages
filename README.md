@@ -1,2 +1,2 @@
 ## Final Project
-NUMEX Interpreter!
+NUMEX interpreter!
